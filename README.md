@@ -6,7 +6,18 @@ Random password generator in python
     important as it concerned with the security.
 
     #A password is harder to crack(guess) if it is:
+    -----------------------------------------------
     1.Long
     2.If the password does not belongs from dictionary
     3.Contains special characters(.,/,,,',:,|)
+    
+    
+    Random Password Generator
+    -------------------------
+    Enter password length: 10
+    Enter number of passwords: 4
+    olWPPaqXlh
+    pYvzhgUlyA
+    pISAYRggrf
+    NhbEdBmqvF
 
